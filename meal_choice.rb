@@ -3,3 +3,7 @@
 def meal_choice (choice="meat")
   puts "I choose #{choice} please."
 end
+
+meal_choice
+
+meal_choice ("vegan")
