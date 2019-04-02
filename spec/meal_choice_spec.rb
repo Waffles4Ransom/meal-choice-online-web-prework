@@ -8,7 +8,5 @@ describe '#meal_choice' do
   end
 end
 
-def meal_choice (choice="meat")
-  puts "I choose #{choice} please."
-end
+
 
